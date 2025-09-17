@@ -36,6 +36,9 @@ from telegram.ext import (
     filters,
 )
 
+# Package version
+__version__ = "1.0.0"
+
 # === Cargar variables desde .env ===
 load_dotenv(Path(__file__).with_name(".env"))
 
