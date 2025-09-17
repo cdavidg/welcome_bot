@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "GitHub.copilot",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "prettier.prettier-vscode"
+  ]
+}
